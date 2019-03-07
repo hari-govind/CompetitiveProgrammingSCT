@@ -1,5 +1,6 @@
+//Program to Reverse an Array
+
 #include <iostream>
-#include <cmath>
 #include <vector>
 
 using namespace std;
